@@ -2,13 +2,7 @@
   <img src="/docs/animation/animation.gif" width="150">
 </p>
 <h1 align="center">Mobile App Landing Page Template</h1>
-<p>
-  <a href="/LICENSE"><img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="MIT"></a>
-  <a href="https://medium.com/@sandoche" target="_blank"><img src="https://badgen.net/badge/icon/medium?icon=medium&label" alt="medium: sandoche"></a>
-  <a href="https://twitter.com/sandochee">
-    <img alt="Twitter: sandochee" src="https://img.shields.io/twitter/follow/sandochee.svg?style=social" target="_blank" />
-  </a>
-</p>
+
 
 📱 Free to use static generated landing page template for your mobile app
 
@@ -80,8 +74,7 @@ npm run build
 ### Deploy to netlify (for free)
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sandoche/Mobile-app-landingpage-template)
 
-### More documentation
-This templates uses [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate), read more documentation there.
+
 
 ## 🤝 Contributing
 Contributions, issues and feature requests are welcome!
@@ -89,12 +82,8 @@ Contributions, issues and feature requests are welcome!
 ## ⭐️ Show your support
 Please ⭐️ this repository if this project helped you!
 
-<a href="https://www.patreon.com/sandoche">[![patreon.png](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sandoche)</a>
 
 ## 🍺 Buy me a beer 
 If you like this project, feel free to donate:
-* PayPal: https://www.paypal.me/kanbanote
-* Bitcoin: 19JiNZ1LkMaz57tewqJaTg2hQWH4RgW4Yp
-* Ethereum: 0xded81fa4624e05339924355fe3504ba9587d5419
-* Monero: 43jqzMquW2q989UKSrB2YbeffhmJhbYb2Yxu289bv7pLRh4xVgMKj5yTd52iL6x1dvCYs9ERg5biHYxMjGkpSTs6S2jMyJn
-* Motive: MOTIV-25T5-SD65-V7LJ-BBWRD (Get Motive Now: https://motive.network)
+* Ethereum: 0x74eEc7C9dafC7966481dBdf5302F3DDEf4698B3e
+
